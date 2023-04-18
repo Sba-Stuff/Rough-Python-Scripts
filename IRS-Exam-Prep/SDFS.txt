@@ -1,0 +1,7 @@
+import numpy as np
+M = [[1,0,0,0,0],[1,0,0,0,0],[1,1,0,0,0],[1,1,1,1,1,],[0,0,0,0,1]]
+X = np.array(M)
+Y = np.array(X.T)
+print(X)
+print(Y)
+print(np.dot(X,Y))

@@ -1,0 +1,5 @@
+Misconception: What to write on search engine.
+Misformulation: Query is wrong.
+Precision: Data that is relevant to user query. octupus etc on 7th page.
+Fish at first 5 pages.
+Recall: Relevant in Retrieved.

@@ -1,0 +1,17 @@
+Text Classification:
+1. Applications
+2. Motivation / Example (Mathematical).
+3. Precision Accuracy.
+
+Text Classifications: Email: SPAM Or JUNK.
+Text Classificaton: Authorship, absolution.
+Text Classificaton: Gender Author detection.
+Text Classification: Fake Opinion > Individual, Group, Hateful Speech.], Profiling
+Conflict of Interest
+Text Classification: Paper Organization.
+Documents, Classes.
+
+
+Testing document and assign
+
+Positive Or Negative Opinion Review.
